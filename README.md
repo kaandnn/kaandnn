@@ -4,7 +4,7 @@
 
 **Full-Stack Developer · İzmir, Turkey**
 
-*Building real products — solo, from idea to deployment.*
+*Building real products  solo, from idea to deployment.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kandez.com-000?style=flat-square&logo=vercel&logoColor=white)](https://kandez.com)
 
@@ -74,7 +74,7 @@ Full-stack e-commerce platform for a client. Product catalog, cart, and iyzico p
 
 ### Conduit — Trust & Governance Layer for AI Agents
 
-Middleware that makes autonomous AI agents accountable: spend limits, human-approval routing, and a cryptographic audit log. Your agents work all night — you know exactly what they did in the morning. Submitted to a national digital product competition (2026).
+Middleware that makes autonomous AI agents accountable: spend limits, human approval routing, and a cryptographic audit log. Your agents work all night;  you know exactly what they did in the morning. Submitted to a national digital product competition (2026).
 
 Live Demo — demo login: admin@conduit.local / conduit (interface currently in Turkish)
 
