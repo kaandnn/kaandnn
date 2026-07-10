@@ -44,31 +44,59 @@ I care about clean architecture, real-world usability, and shipping things that 
 
 ## Projects
 
-### 🌐 Kandez — Personal Portfolio
+###  Kandez — Personal Portfolio
 My personal portfolio website showcases my projects, skills, and experience as a full-stack developer.
 
 `Next.js` `TypeScript` `Tailwind CSS`
 
 ---
 
-### 🏨 Tourism SaaS — Hotel Kiosk Platform
+###  Tourism SaaS — Hotel Kiosk Platform
 Multi-tenant SaaS for tourism businesses. Hotels subscribe to get a smart lobby kiosk with agency/guide profiles, tour browsing, AI concierge chat, and multilingual support.
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `AI`
 
 ---
 
-### 🎯 Kuponperest — Football Prediction Platform
+###  Kuponperest — Football Prediction Platform
 Football coupon & prediction platform with a React/Vite frontend, Flask backend, and a React Native iOS app. Includes AdMob rewarded ads and live match data integration.
 
 `React` `Vite` `Flask` `React Native` `Python`
 
 ---
 
-### 🛒 Yörükoğlu Yapı Market — E-Commerce Site
+### Yörükoğlu Yapı Market — E-Commerce Site
 Full-stack e-commerce platform for a client. Product catalog, cart, and iyzico payment integration.
 
 `Next.js` `Prisma` `PostgreSQL` `iyzico`
+
+---
+
+### Conduit — Trust & Governance Layer for AI Agents
+
+Middleware that makes autonomous AI agents accountable: spend limits, human-approval routing, and a cryptographic audit log. Your agents work all night — you know exactly what they did in the morning. Submitted to a national digital product competition (2026).
+
+Live Demo — demo login: admin@conduit.local / conduit (interface currently in Turkish)
+
+`Next.js TypeScript Auth.js v5 Prisma PostgreSQL Vercel`
+
+
+---
+
+
+### HolidayMeeting — Multilingual Tour Booking Platform
+
+Four-language (EN/DE/RU/TR) booking site for Turkish Riviera tours, built for a tour operator partner. SEO-optimized, fully responsive, production-deployed.
+
+Live
+
+`Next.js TypeScript Tailwind CSS Vercel`
+
+
+
+### The Mandate — Political Leadership Simulation (in development)
+
+A strategy game where you play as a head of state: manage the economy, navigate coalitions and crises, and try to win re-election through political maneuvering.
 
 ---
 
@@ -77,3 +105,6 @@ Full-stack e-commerce platform for a client. Product catalog, cart, and iyzico p
 *Open to freelance projects and collaboration.*
 
 </div>
+
+
+
